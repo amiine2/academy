@@ -1,11 +1,4 @@
 {
-  "posts": [{
-    "id": 1,
-    "title": "hello"
-  }],
-  "profile": {
-    "name": "typicode"
-  },
   "vendors": [{
     "id": "1",
     "name": "{\"fr\":\"Huawei\",\"en\":\"Huawei\",\"ar\":\"Huawei\"}",
@@ -16,16 +9,6 @@
     "name": "{\"fr\":\"OpenCode\",\"en\":\"OpenCode\",\"ar\":\"OpenCode\"}",
     "address": "{\"fr\":\"El Biar\",\"en\":\"El Biar\",\"ar\":\"El Biar\"}",
     "modification_date": "0000-00-00 00:00:00"
-  }, {
-    "id": "3",
-    "name": "{\"fr\":\"Ericsson\",\"en\":\"Ericsson\",\"ar\":\"Ericsson\"}",
-    "address": "{\"fr\":\"Beb ezzouar\",\"en\":\"Beb ezzouar\",\"ar\":\"Beb ezzouar\"}",
-    "modification_date": "2020-10-06 15:14:00"
-  }, {
-    "id": "4",
-    "name": "{\"fr\":\"Alfresco\",\"en\":\"Alfresco\",\"ar\":\"Alfresco\"}",
-    "address": "{\"fr\":\"Tunis\",\"en\":\"Tunis\",\"ar\":\"Tunis\"}",
-    "modification_date": "2020-10-06 15:07:49"
   }],
   "domains": [{
     "id": "1",
@@ -39,14 +22,6 @@
     "id": "3",
     "title": "{\"fr\":\"Cursus M\u00e9tiers\",\"en\":\"Cursus M\u00e9tiers\",\"ar\":\"Cursus M\u00e9tiers\"}",
     "active": "0"
-  }, {
-    "id": "4",
-    "title": "{\"fr\":\"Formations Manag\u00e9rales\",\"en\":\"Formations Manag\u00e9rales\",\"ar\":\"Formations Manag\u00e9rales\"}",
-    "active": "0"
-  }, {
-    "id": "24",
-    "title": "{\"fr\":\"Sociologie Pro\",\"en\":\"Sociologie Pro\",\"ar\":\"Sociologie Pro\"}",
-    "active": "1"
   }],
   "trainings": [{
     "id": "1",
@@ -70,105 +45,6 @@
     "type": "catalog",
     "status": "active",
     "modification_date": "2020-10-06 00:00:00"
-  }, {
-    "id": "3",
-    "domain_id": null,
-    "vendor_id": "1",
-    "reference": "",
-    "title": "{\"fr\":\"Huawei SDP System Operation and Maintenance Training (VAS Cloud Project)\",\"en\":\"Huawei SDP System Operation and Maintenance Training (VAS Cloud Project)\",\"ar\":\"Huawei SDP System Operation and Maintenance Training (VAS Cloud Project)\"}",
-    "description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
-    "contents": "{\"fr\":\"- SDP Soution Overview (1 Day duration)\\r\\n- SDP Service Flows & System Interfaces (1 Day duration)\\r\\n- SDP System Operation (3 Days duration)\\r\\n- SDP System Maintenance (3 Days duration)\",\"en\":\"- SDP Soution Overview (1 Day duration)\\r\\n- SDP Service Flows & System Interfaces (1 Day duration)\\r\\n- SDP System Operation (3 Days duration)\\r\\n- SDP System Maintenance (3 Days duration)\",\"ar\":\"- SDP Soution Overview (1 Day duration)\\r\\n- SDP Service Flows & System Interfaces (1 Day duration)\\r\\n- SDP System Operation (3 Days duration)\\r\\n- SDP System Maintenance (3 Days duration)\"}",
-    "type": "vendor",
-    "status": "active",
-    "modification_date": "2020-10-06 00:00:00"
-  }, {
-    "id": "6",
-    "domain_id": "2",
-    "vendor_id": null,
-    "reference": "C0020",
-    "title": "{\"fr\":\"title2\",\"en\":\"title2\",\"ar\":\"title2\"}",
-    "description": "{\"fr\":\"desc2\",\"en\":\"desc2\",\"ar\":\"desc2\"}",
-    "contents": "{\"fr\":\"content2\",\"en\":\"content2\",\"ar\":\"content2\"}",
-    "type": "catalog",
-    "status": "active",
-    "modification_date": "2020-10-06 00:00:00"
-  }, {
-    "id": "7",
-    "domain_id": "2",
-    "vendor_id": null,
-    "reference": "C0021",
-    "title": "{\"fr\":\"title3\",\"en\":\"\",\"ar\":\"\"}",
-    "description": "{\"fr\":\"desc3\",\"en\":\"\",\"ar\":\"\"}",
-    "contents": "{\"fr\":\"content3\",\"en\":\"\",\"ar\":\"\"}",
-    "type": "catalog",
-    "status": "pending",
-    "modification_date": "2020-10-06 00:00:00"
-  }, {
-    "id": "8",
-    "domain_id": "2",
-    "vendor_id": null,
-    "reference": "C0021",
-    "title": "{\"fr\":\"title4\",\"en\":\"\",\"ar\":\"\"}",
-    "description": "{\"fr\":\"desc4\",\"en\":\"\",\"ar\":\"\"}",
-    "contents": "{\"fr\":\"content4\",\"en\":\"\",\"ar\":\"\"}",
-    "type": "catalog",
-    "status": "inactive",
-    "modification_date": "2020-10-06 00:00:00"
-  }, {
-    "id": "9",
-    "domain_id": "2",
-    "vendor_id": null,
-    "reference": "C0021",
-    "title": "{\"fr\":\"title4\",\"en\":\"\",\"ar\":\"\"}",
-    "description": "{\"fr\":\"desc4\",\"en\":\"\",\"ar\":\"\"}",
-    "contents": "{\"fr\":\"content4\",\"en\":\"\"}",
-    "type": "catalog",
-    "status": "active",
-    "modification_date": "2020-10-06 00:00:00"
-  }, {
-    "id": "10",
-    "domain_id": "24",
-    "vendor_id": null,
-    "reference": "C0021",
-    "title": "{\"fr\":\"title4\",\"en\":\"\",\"ar\":\"\"}",
-    "description": "{\"fr\":\"desc4\",\"en\":\"\",\"ar\":\"\"}",
-    "contents": "{\"fr\":\"content4\",\"en\":\"\",\"ar\":\"\"}",
-    "type": "catalog",
-    "status": "active",
-    "modification_date": "2020-10-06 00:00:00"
-  }, {
-    "id": "47",
-    "domain_id": "4",
-    "vendor_id": null,
-    "reference": "M0001",
-    "title": "{\"fr\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"en\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"ar\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\"}",
-    "description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
-    "contents": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
-    "type": "catalog",
-    "status": "active",
-    "modification_date": "2020-10-06 12:44:13"
-  }, {
-    "id": "55",
-    "domain_id": "1",
-    "vendor_id": null,
-    "reference": "M0001",
-    "title": "{\"fr\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"en\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"ar\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\"}",
-    "description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
-    "contents": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
-    "type": "catalog",
-    "status": "active",
-    "modification_date": "2020-10-06 12:53:40"
-  }, {
-    "id": "58",
-    "domain_id": "1",
-    "vendor_id": null,
-    "reference": "M0010",
-    "title": "{\"fr\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"en\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"ar\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\"}",
-    "description": "{\"fr\":\"Acqu\u00e9rir les m\u00e9thodes et les outils pour d\u00e9velopper ses bases de donn\u00e9es.\",\"en\":\"Acqu\u00e9rir les m\u00e9thodes et les outils pour d\u00e9velopper ses bases de donn\u00e9es.\",\"ar\":\"Acqu\u00e9rir les m\u00e9thodes et les outils pour d\u00e9velopper ses bases de donn\u00e9es.\"}",
-    "contents": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
-    "type": "catalog",
-    "status": "active",
-    "modification_date": "2020-10-06 14:23:46"
   }],
   "publications": [{
     "id": "1",
@@ -197,14 +73,5 @@
     "in_home": "1",
     "creation_date": "2020-10-05 23:53:04",
     "modification_date": "2020-10-05 23:53:04"
-  }, {
-    "id": "4",
-    "name": "{\"fr\":\"Communiquer avec diff\u00e9rents types de personnalit\u00e9s\",\"en\":\"Communiquer avec diff\u00e9rents types de personnalit\u00e9s\",\"ar\":\"Communiquer avec diff\u00e9rents types de personnalit\u00e9s\"}",
-    "short_description": "{\"fr\":\"La qualit\u00e9 de notre communication est au c\u0153ur de notre performance relationnelle. Une bonne compr\u00e9hension de notre fonctionnement et de celui des autres permet de d\u00e9velopper des strat\u00e9gies de communication efficaces et mieux r\u00e9pondre aux exigences de notre environnement professionnel.\", \"en\":\"La qualit\u00e9 de notre communication est au c\u0153ur de notre performance relationnelle. Une bonne compr\u00e9hension de notre fonctionnement et de celui des autres permet de d\u00e9velopper des strat\u00e9gies de communication efficaces et mieux r\u00e9pondre aux exigences de notre environnement professionnel.\", \"ar\":\"La qualit\u00e9 de notre communication est au c\u0153ur de notre performance relationnelle. Une bonne compr\u00e9hension de notre fonctionnement et de celui des autres permet de d\u00e9velopper des strat\u00e9gies de communication efficaces et mieux r\u00e9pondre aux exigences de notre environnement professionnel.\"}",
-    "long_description": "{\"fr\":\"Comment mettre \u00e0 profit nos diff\u00e9rences interpersonnelles afin d\u2019avancer dans une m\u00eame direction, Comment faire pour favoriser la compr\u00e9hension mutuelle et l\u2019harmonie malgr\u00e9 ces diff\u00e9rences ?  Mohamed OULED CHAKMADJI, formateur & Coach certifi\u00e9 Dale Carnegie nous livre quelques m\u00e9thodes utiles pour am\u00e9liorer l\u2019efficacit\u00e9 en communication dans ce webinar. N\u2019h\u00e9sitez pas \u00e0 cliquer sur le lien ci-dessous pour assister \u00e0 ce direct pr\u00e9vu le Jeudi 22 Octobre \u00e0 11H00. Soyez nombreux au rendez-vous !\", \"en\":\"Comment mettre \u00e0 profit nos diff\u00e9rences interpersonnelles afin d\u2019avancer dans une m\u00eame direction, Comment faire pour favoriser la compr\u00e9hension mutuelle et l\u2019harmonie malgr\u00e9 ces diff\u00e9rences ?  Mohamed OULED CHAKMADJI, formateur & Coach certifi\u00e9 Dale Carnegie nous livre quelques m\u00e9thodes utiles pour am\u00e9liorer l\u2019efficacit\u00e9 en communication dans ce webinar. N\u2019h\u00e9sitez pas \u00e0 cliquer sur le lien ci-dessous pour assister \u00e0 ce direct pr\u00e9vu le Jeudi 22 Octobre \u00e0 11H00. Soyez nombreux au rendez-vous !\", \"ar\":\"Comment mettre \u00e0 profit nos diff\u00e9rences interpersonnelles afin d\u2019avancer dans une m\u00eame direction, Comment faire pour favoriser la compr\u00e9hension mutuelle et l\u2019harmonie malgr\u00e9 ces diff\u00e9rences ?  Mohamed OULED CHAKMADJI, formateur & Coach certifi\u00e9 Dale Carnegie nous livre quelques m\u00e9thodes utiles pour am\u00e9liorer l\u2019efficacit\u00e9 en communication dans ce webinar. N\u2019h\u00e9sitez pas \u00e0 cliquer sur le lien ci-dessous pour assister \u00e0 ce direct pr\u00e9vu le Jeudi 22 Octobre \u00e0 11H00. Soyez nombreux au rendez-vous !\"}",
-    "type": "2",
-    "in_home": "1",
-    "creation_date": "2020-10-05 23:59:53",
-    "modification_date": "2020-10-05 23:59:53"
   }]
 }
