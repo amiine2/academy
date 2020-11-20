@@ -45,33 +45,5 @@
     "type": "catalog",
     "status": "active",
     "modification_date": "2020-10-06 00:00:00"
-  }],
-  "publications": [{
-    "id": "1",
-    "name": "{\"fr\":\"Travailler en \u00e9quipe\",\"en\":\"Travailler en \u00e9quipe\",\"ar\":\"Travailler en \u00e9quipe\"}",
-    "short_description": "{\"fr\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Antar YAHIA sur l\u2019importance du travail en \u00e9quipe.\",\"en\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Antar YAHIA sur l\u2019importance du travail en \u00e9quipe.\",\"ar\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Antar YAHIA sur l\u2019importance du travail en \u00e9quipe.\"}",
-    "long_description": "{\"fr\":\"Quelle que soit notre fonction ou notre niveau de responsabilit\u00e9, nous sommes amen\u00e9s \u00e0 g\u00e9rer des projets et des missions n\u00e9cessitant un travail en \u00e9quipe. Nous sommes tous capables de travailler ensemble et chaque membre de l\u2019\u00e9quipe doit \u0153uvrer non pas individuellement mais avec tous les autres pour atteindre un objectif commun.\",\"en\":\"Quelle que soit notre fonction ou notre niveau de responsabilit\u00e9, nous sommes amen\u00e9s \u00e0 g\u00e9rer des projets et des missions n\u00e9cessitant un travail en \u00e9quipe. Nous sommes tous capables de travailler ensemble et chaque membre de l\u2019\u00e9quipe doit \u0153uvrer non pas individuellement mais avec tous les autres pour atteindre un objectif commun.\",\"ar\":\"Quelle que soit notre fonction ou notre niveau de responsabilit\u00e9, nous sommes amen\u00e9s \u00e0 g\u00e9rer des projets et des missions n\u00e9cessitant un travail en \u00e9quipe. Nous sommes tous capables de travailler ensemble et chaque membre de l\u2019\u00e9quipe doit \u0153uvrer non pas individuellement mais avec tous les autres pour atteindre un objectif commun.\"}",
-    "type": "1",
-    "in_home": "1",
-    "creation_date": "2020-10-11 23:52:47",
-    "modification_date": "2020-10-11 23:52:47"
-  }, {
-    "id": "2",
-    "name": "{\"fr\":\"Inclusion Num\u00e9rique\",\"en\":\"Inclusion Num\u00e9rique\",\"ar\":\"Inclusion Num\u00e9rique\"}",
-    "short_description": "{\"fr\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Lina AMARA KORBA qui nous explique ce qu\u2019est l\u2019inclusion num\u00e9rique ainsi que ses enjeux.\",\"en\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Lina AMARA KORBA qui nous explique ce qu\u2019est l\u2019inclusion num\u00e9rique ainsi que ses enjeux.\",\"ar\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Lina AMARA KORBA qui nous explique ce qu\u2019est l\u2019inclusion num\u00e9rique ainsi que ses enjeux.\"}",
-    "long_description": "{\"fr\":\"La d\u00e9mat\u00e9rialisation des services ainsi que le d\u00e9veloppement de la  culture num\u00e9rique et digitale ont un impact direct  sur le travail et la vie quotidienne, d\u2019o\u00f9 l\u2019importance de favoriser le d\u00e9ploiement du processus qui vise \u00e0 rendre le num\u00e9rique accessible \u00e0 chaque individu. En tant qu'acc\u00e9l\u00e9rateurs et amplificateurs de changement, Djezzy est un des acteurs qui accompagne l\u2019inclusion num\u00e9rique en Alg\u00e9rie.\",\"en\":\"La d\u00e9mat\u00e9rialisation des services ainsi que le d\u00e9veloppement de la  culture num\u00e9rique et digitale ont un impact direct  sur le travail et la vie quotidienne, d\u2019o\u00f9 l\u2019importance de favoriser le d\u00e9ploiement du processus qui vise \u00e0 rendre le num\u00e9rique accessible \u00e0 chaque individu. En tant qu'acc\u00e9l\u00e9rateurs et amplificateurs de changement, Djezzy est un des acteurs qui accompagne l\u2019inclusion num\u00e9rique en Alg\u00e9rie.\",\"ar\":\"La d\u00e9mat\u00e9rialisation des services ainsi que le d\u00e9veloppement de la  culture num\u00e9rique et digitale ont un impact direct  sur le travail et la vie quotidienne, d\u2019o\u00f9 l\u2019importance de favoriser le d\u00e9ploiement du processus qui vise \u00e0 rendre le num\u00e9rique accessible \u00e0 chaque individu. En tant qu'acc\u00e9l\u00e9rateurs et amplificateurs de changement, Djezzy est un des acteurs qui accompagne l\u2019inclusion num\u00e9rique en Alg\u00e9rie.\"}",
-    "type": "1",
-    "in_home": "1",
-    "creation_date": "2020-10-11 23:52:47",
-    "modification_date": "2020-10-11 23:52:47"
-  }, {
-    "id": "3",
-    "name": "{\"fr\":\"les 4 cl\u00e9s de la communication\",\"en\":\"les 4 cl\u00e9s de la communication\",\"ar\":\"les 4 cl\u00e9s de la communication\"}",
-    "short_description": "{\"fr\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Mohamed Ould Chakmadji qui nous pr\u00e9sente les 4 cl\u00e9s de la communication.\",\"en\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Mohamed Ould Chakmadji qui nous pr\u00e9sente les 4 cl\u00e9s de la communication.\",\"ar\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Mohamed Ould Chakmadji qui nous pr\u00e9sente les 4 cl\u00e9s de la communication.\"}",
-    "long_description": "{\"fr\":\"Au quotidien, de bonnes comp\u00e9tences en communication sont indispensables au sein de l\u2019entreprise, ainsi ces comp\u00e9tences vous permettent de vous faire entendre mais \u00e9galement de vous faire comprendre et de cr\u00e9er des relations professionnelles positives, apprendre \u00e0 mieux communiquer vous donnera la possibilit\u00e9 de sortir du lot et d'obtenir davantage d\u2019opportunit\u00e9s pour g\u00e9rer au mieux votre carri\u00e8re et vos relations.\",\"en\":\"Au quotidien, de bonnes comp\u00e9tences en communication sont indispensables au sein de l\u2019entreprise, ainsi ces comp\u00e9tences vous permettent de vous faire entendre mais \u00e9galement de vous faire comprendre et de cr\u00e9er des relations professionnelles positives, apprendre \u00e0 mieux communiquer vous donnera la possibilit\u00e9 de sortir du lot et d'obtenir davantage d\u2019opportunit\u00e9s pour g\u00e9rer au mieux votre carri\u00e8re et vos relations.\",\"ar\":\"Au quotidien, de bonnes comp\u00e9tences en communication sont indispensables au sein de l\u2019entreprise, ainsi ces comp\u00e9tences vous permettent de vous faire entendre mais \u00e9galement de vous faire comprendre et de cr\u00e9er des relations professionnelles positives, apprendre \u00e0 mieux communiquer vous donnera la possibilit\u00e9 de sortir du lot et d'obtenir davantage d\u2019opportunit\u00e9s pour g\u00e9rer au mieux votre carri\u00e8re et vos relations.\"}",
-    "type": "1",
-    "in_home": "1",
-    "creation_date": "2020-10-05 23:53:04",
-    "modification_date": "2020-10-05 23:53:04"
   }]
 }
