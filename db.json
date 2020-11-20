@@ -47,5 +47,127 @@
     "id": "24",
     "title": "{\"fr\":\"Sociologie Pro\",\"en\":\"Sociologie Pro\",\"ar\":\"Sociologie Pro\"}",
     "active": "1"
+  }],
+  "trainings": [{
+    "id": "1",
+    "domain_id": "1",
+    "vendor_id": null,
+    "reference": "C0012",
+    "title": "{\"fr\":\"E-marketing\", \"en\":\"E-marketing\", \"ar\":\"E-marketing\"}",
+    "description": "{\"fr\":\"Ma\u00c3\u00aetriser les fondamentaux du e-marketing.\", \"en\":\"Ma\u00c3\u00aetriser les fondamentaux du e-marketing.\", \"ar\":\"Ma\u00c3\u00aetriser les fondamentaux du e-marketing.\"}",
+    "contents": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "type": "catalog",
+    "status": "active",
+    "modification_date": "2020-10-06 00:00:00"
+  }, {
+    "id": "2",
+    "domain_id": "1",
+    "vendor_id": null,
+    "reference": "C0010",
+    "title": "{\"fr\":\"Commercialisation multicanal optimisez votre dispositif\",\"en\":\"Commercialisation multicanal optimisez votre dispositif\",\"ar\":\"Commercialisation multicanal optimisez votre dispositif\"}",
+    "description": "{\"fr\":\"Cr\u00e9er une dynamique positive entre toutes les \u00e9quipes participant \u00e0 la commercialisation\",\"en\":\"Cr\u00e9er une dynamique positive entre toutes les \u00e9quipes participant \u00e0 la commercialisation\",\"ar\":\"Cr\u00e9er une dynamique positive entre toutes les \u00e9quipes participant \u00e0 la commercialisation\"}",
+    "contents": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "type": "catalog",
+    "status": "active",
+    "modification_date": "2020-10-06 00:00:00"
+  }, {
+    "id": "3",
+    "domain_id": null,
+    "vendor_id": "1",
+    "reference": "",
+    "title": "{\"fr\":\"Huawei SDP System Operation and Maintenance Training (VAS Cloud Project)\",\"en\":\"Huawei SDP System Operation and Maintenance Training (VAS Cloud Project)\",\"ar\":\"Huawei SDP System Operation and Maintenance Training (VAS Cloud Project)\"}",
+    "description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "contents": "{\"fr\":\"- SDP Soution Overview (1 Day duration)\\r\\n- SDP Service Flows & System Interfaces (1 Day duration)\\r\\n- SDP System Operation (3 Days duration)\\r\\n- SDP System Maintenance (3 Days duration)\",\"en\":\"- SDP Soution Overview (1 Day duration)\\r\\n- SDP Service Flows & System Interfaces (1 Day duration)\\r\\n- SDP System Operation (3 Days duration)\\r\\n- SDP System Maintenance (3 Days duration)\",\"ar\":\"- SDP Soution Overview (1 Day duration)\\r\\n- SDP Service Flows & System Interfaces (1 Day duration)\\r\\n- SDP System Operation (3 Days duration)\\r\\n- SDP System Maintenance (3 Days duration)\"}",
+    "type": "vendor",
+    "status": "active",
+    "modification_date": "2020-10-06 00:00:00"
+  }, {
+    "id": "6",
+    "domain_id": "2",
+    "vendor_id": null,
+    "reference": "C0020",
+    "title": "{\"fr\":\"title2\",\"en\":\"title2\",\"ar\":\"title2\"}",
+    "description": "{\"fr\":\"desc2\",\"en\":\"desc2\",\"ar\":\"desc2\"}",
+    "contents": "{\"fr\":\"content2\",\"en\":\"content2\",\"ar\":\"content2\"}",
+    "type": "catalog",
+    "status": "active",
+    "modification_date": "2020-10-06 00:00:00"
+  }, {
+    "id": "7",
+    "domain_id": "2",
+    "vendor_id": null,
+    "reference": "C0021",
+    "title": "{\"fr\":\"title3\",\"en\":\"\",\"ar\":\"\"}",
+    "description": "{\"fr\":\"desc3\",\"en\":\"\",\"ar\":\"\"}",
+    "contents": "{\"fr\":\"content3\",\"en\":\"\",\"ar\":\"\"}",
+    "type": "catalog",
+    "status": "pending",
+    "modification_date": "2020-10-06 00:00:00"
+  }, {
+    "id": "8",
+    "domain_id": "2",
+    "vendor_id": null,
+    "reference": "C0021",
+    "title": "{\"fr\":\"title4\",\"en\":\"\",\"ar\":\"\"}",
+    "description": "{\"fr\":\"desc4\",\"en\":\"\",\"ar\":\"\"}",
+    "contents": "{\"fr\":\"content4\",\"en\":\"\",\"ar\":\"\"}",
+    "type": "catalog",
+    "status": "inactive",
+    "modification_date": "2020-10-06 00:00:00"
+  }, {
+    "id": "9",
+    "domain_id": "2",
+    "vendor_id": null,
+    "reference": "C0021",
+    "title": "{\"fr\":\"title4\",\"en\":\"\",\"ar\":\"\"}",
+    "description": "{\"fr\":\"desc4\",\"en\":\"\",\"ar\":\"\"}",
+    "contents": "{\"fr\":\"content4\",\"en\":\"\"}",
+    "type": "catalog",
+    "status": "active",
+    "modification_date": "2020-10-06 00:00:00"
+  }, {
+    "id": "10",
+    "domain_id": "24",
+    "vendor_id": null,
+    "reference": "C0021",
+    "title": "{\"fr\":\"title4\",\"en\":\"\",\"ar\":\"\"}",
+    "description": "{\"fr\":\"desc4\",\"en\":\"\",\"ar\":\"\"}",
+    "contents": "{\"fr\":\"content4\",\"en\":\"\",\"ar\":\"\"}",
+    "type": "catalog",
+    "status": "active",
+    "modification_date": "2020-10-06 00:00:00"
+  }, {
+    "id": "47",
+    "domain_id": "4",
+    "vendor_id": null,
+    "reference": "M0001",
+    "title": "{\"fr\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"en\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"ar\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\"}",
+    "description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "contents": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "type": "catalog",
+    "status": "active",
+    "modification_date": "2020-10-06 12:44:13"
+  }, {
+    "id": "55",
+    "domain_id": "1",
+    "vendor_id": null,
+    "reference": "M0001",
+    "title": "{\"fr\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"en\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"ar\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\"}",
+    "description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "contents": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "type": "catalog",
+    "status": "active",
+    "modification_date": "2020-10-06 12:53:40"
+  }, {
+    "id": "58",
+    "domain_id": "1",
+    "vendor_id": null,
+    "reference": "M0010",
+    "title": "{\"fr\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"en\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\",\"ar\":\"Exploiter et enrichir sa base de donn\u00e9es marketing\"}",
+    "description": "{\"fr\":\"Acqu\u00e9rir les m\u00e9thodes et les outils pour d\u00e9velopper ses bases de donn\u00e9es.\",\"en\":\"Acqu\u00e9rir les m\u00e9thodes et les outils pour d\u00e9velopper ses bases de donn\u00e9es.\",\"ar\":\"Acqu\u00e9rir les m\u00e9thodes et les outils pour d\u00e9velopper ses bases de donn\u00e9es.\"}",
+    "contents": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "type": "catalog",
+    "status": "active",
+    "modification_date": "2020-10-06 14:23:46"
   }]
 }
