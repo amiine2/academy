@@ -26,5 +26,26 @@
     "name": "{\"fr\":\"Alfresco\",\"en\":\"Alfresco\",\"ar\":\"Alfresco\"}",
     "address": "{\"fr\":\"Tunis\",\"en\":\"Tunis\",\"ar\":\"Tunis\"}",
     "modification_date": "2020-10-06 15:07:49"
+  }],
+  "domains": [{
+    "id": "1",
+    "title": "{\"fr\":\"Programmes g\u00e9n\u00e9raux\",\"en\":\"Programmes g\u00e9n\u00e9raux\",\"ar\":\"Programmes g\u00e9n\u00e9raux\"}",
+    "active": "1"
+  }, {
+    "id": "2",
+    "title": "{\"fr\":\"Formations M\u00e9tiers\",\"en\":\"Formations M\u00e9tiers\",\"ar\":\"Formations M\u00e9tiers\"}",
+    "active": "1"
+  }, {
+    "id": "3",
+    "title": "{\"fr\":\"Cursus M\u00e9tiers\",\"en\":\"Cursus M\u00e9tiers\",\"ar\":\"Cursus M\u00e9tiers\"}",
+    "active": "0"
+  }, {
+    "id": "4",
+    "title": "{\"fr\":\"Formations Manag\u00e9rales\",\"en\":\"Formations Manag\u00e9rales\",\"ar\":\"Formations Manag\u00e9rales\"}",
+    "active": "0"
+  }, {
+    "id": "24",
+    "title": "{\"fr\":\"Sociologie Pro\",\"en\":\"Sociologie Pro\",\"ar\":\"Sociologie Pro\"}",
+    "active": "1"
   }]
 }
