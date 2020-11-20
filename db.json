@@ -206,50 +206,5 @@
     "in_home": "1",
     "creation_date": "2020-10-05 23:59:53",
     "modification_date": "2020-10-05 23:59:53"
-  }, {
-    "id": "6",
-    "name": "{\"fr\":\"N\u00e9gociation : pratiques et outils au quotidien\",\"en\":\"N\u00e9gociation : pratiques et outils au quotidien\",\"ar\":\"N\u00e9gociation : pratiques et outils au quotidien\"}",
-    "short_description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
-    "long_description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
-    "type": "2",
-    "in_home": "1",
-    "creation_date": "2020-10-11 23:52:47",
-    "modification_date": "2020-10-11 23:52:47"
-  }, {
-    "id": "7",
-    "name": "{\"fr\":\"comptabilit\u00e9 g\u00e9n\u00e9rale en entreprise\", \"en\":\"comptabilit\u00e9 g\u00e9n\u00e9rale en entreprise\", \"ar\":\"comptabilit\u00e9 g\u00e9n\u00e9rale en entreprise\"}",
-    "short_description": "{\"fr\":\"La transversalit\u00e9 des organisations et la mise en place de syst\u00e8mes informatiques de gestion int\u00e9gr\u00e9s conduisent \u00e0 d\u00e9localiser certains travaux de comptabilit\u00e9 aupr\u00e8s d'op\u00e9rationnels non-sp\u00e9cialistes du domaine. \",\"en\":\"La transversalit\u00e9 des organisations et la mise en place de syst\u00e8mes informatiques de gestion int\u00e9gr\u00e9s conduisent \u00e0 d\u00e9localiser certains travaux de comptabilit\u00e9 aupr\u00e8s d'op\u00e9rationnels non-sp\u00e9cialistes du domaine. \",\"ar\":\"La transversalit\u00e9 des organisations et la mise en place de syst\u00e8mes informatiques de gestion int\u00e9gr\u00e9s conduisent \u00e0 d\u00e9localiser certains travaux de comptabilit\u00e9 aupr\u00e8s d'op\u00e9rationnels non-sp\u00e9cialistes du domaine. \"}",
-    "long_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
-    "type": "2",
-    "in_home": "1",
-    "creation_date": "2020-10-11 23:52:47",
-    "modification_date": "2020-10-11 23:52:47"
-  }, {
-    "id": "8",
-    "name": "{\"fr\":\"L\u2019intelligence \u00e9motionnelle au service de l'engagement\", \"en\":\"L\u2019intelligence \u00e9motionnelle au service de l'engagement\", \"ar\":\"L\u2019intelligence \u00e9motionnelle au service de l'engagement\"}",
-    "short_description": "{\"fr\":\"Dans tout travail d\u2019\u00e9quipe, l\u2019intelligence \u00c9motionnelle est devenue une comp\u00e9tence cl\u00e9.\", \"en\":\"Dans tout travail d\u2019\u00e9quipe, l\u2019intelligence \u00c9motionnelle est devenue une comp\u00e9tence cl\u00e9.\", \"ar\":\"Dans tout travail d\u2019\u00e9quipe, l\u2019intelligence \u00c9motionnelle est devenue une comp\u00e9tence cl\u00e9.\"}",
-    "long_description": "{\"fr\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs.\",\"en\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs. \",\"ar\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs.\"}",
-    "type": "3",
-    "in_home": "1",
-    "creation_date": "2020-10-05 23:53:04",
-    "modification_date": "2020-10-05 23:53:04"
-  }, {
-    "id": "9",
-    "name": "{\"fr\":\"Management de la performance collective\", \"en\":\"Management de la performance collective\", \"ar\":\"Management de la performance collective\"}",
-    "short_description": "{\"fr\":\"Dans les contextes o\u00f9 les interactions entre collaborateurs sont nombreuses, la coop\u00e9ration et la dynamique de groupe deviennent des facteurs d\u00e9terminants de performance.\", \"en\":\"Dans les contextes o\u00f9 les interactions entre collaborateurs sont nombreuses, la coop\u00e9ration et la dynamique de groupe deviennent des facteurs d\u00e9terminants de performance.\", \"ar\":\"Dans les contextes o\u00f9 les interactions entre collaborateurs sont nombreuses, la coop\u00e9ration et la dynamique de groupe deviennent des facteurs d\u00e9terminants de performance.\"}",
-    "long_description": "{\"fr\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs.\",\"en\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs. \",\"ar\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs.\"}",
-    "type": "3",
-    "in_home": "1",
-    "creation_date": "2020-10-05 23:59:53",
-    "modification_date": "2020-10-05 23:59:53"
-  }, {
-    "id": "10",
-    "name": "{\"fr\":\"Prendre la parole avec impact\", \"en\":\"Prendre la parole avec impact\", \"ar\":\"Prendre la parole avec impact\"}",
-    "short_description": "{\"fr\":\"Vos fonctions vous am\u00e8nent \u00e0 vous exprimer souvent devant un auditoire : faire une pr\u00e9sentation, conduire une r\u00e9union, annoncer une d\u00e9cision.\", \"en\":\"Vos fonctions vous am\u00e8nent \u00e0 vous exprimer souvent devant un auditoire : faire une pr\u00e9sentation, conduire une r\u00e9union, annoncer une d\u00e9cision.\", \"ar\":\"Vos fonctions vous am\u00e8nent \u00e0 vous exprimer souvent devant un auditoire : faire une pr\u00e9sentation, conduire une r\u00e9union, annoncer une d\u00e9cision.\"}",
-    "long_description": "{\"fr\":\"Pour mieux pr\u00e9parer une prise de parole en public en fonction du contexte professionnel identifi\u00e9, Ahmed LAHRI, General Manager d\u2019un cabinet de conseil en communication, formateur et ancien pr\u00e9sentateur TV d\u00e9veloppe pour nous le sujet \u00e0 travers quelques astuces pour convaincre et captiver l\u2019auditoire d\u00e8s les premi\u00e8res secondes le Lundi 13 Juillet 2020 \u00e0 11h00. \", \"en\":\"Pour mieux pr\u00e9parer une prise de parole en public en fonction du contexte professionnel identifi\u00e9, Ahmed LAHRI, General Manager d\u2019un cabinet de conseil en communication, formateur et ancien pr\u00e9sentateur TV d\u00e9veloppe pour nous le sujet \u00e0 travers quelques astuces pour convaincre et captiver l\u2019auditoire d\u00e8s les premi\u00e8res secondes le Lundi 13 Juillet 2020 \u00e0 11h00. \", \"ar\":\"Pour mieux pr\u00e9parer une prise de parole en public en fonction du contexte professionnel identifi\u00e9, Ahmed LAHRI, General Manager d\u2019un cabinet de conseil en communication, formateur et ancien pr\u00e9sentateur TV d\u00e9veloppe pour nous le sujet \u00e0 travers quelques astuces pour convaincre et captiver l\u2019auditoire d\u00e8s les premi\u00e8res secondes le Lundi 13 Juillet 2020 \u00e0 11h00. \"}",
-    "type": "3",
-    "in_home": "1",
-    "creation_date": "2020-10-11 23:52:47",
-    "modification_date": "2020-10-11 23:52:47"
   }]
 }
