@@ -8,23 +8,23 @@
   },
   "vendors": [{
     "id": "1",
-    "name": "{fr:"Huawei","en":"Huawei","ar":"Huawei"}",
-    "address": "{"fr":"Beb ezzouar","en":"Beb ezzouar","ar":"Beb ezzouar"}",
+    "name": "{\"fr\":\"Huawei\",\"en\":\"Huawei\",\"ar\":\"Huawei\"}",
+    "address": "{\"fr\":\"Beb ezzouar\",\"en\":\"Beb ezzouar\",\"ar\":\"Beb ezzouar\"}",
     "modification_date": "0000-00-00 00:00:00"
   }, {
     "id": "2",
-    "name": "{fr:"OpenCode","en":"OpenCode","ar":"OpenCode"}",
-    "address": "{"fr":"El Biar","en":"El Biar","ar":"El Biar"}",
+    "name": "{\"fr\":\"OpenCode\",\"en\":\"OpenCode\",\"ar\":\"OpenCode\"}",
+    "address": "{\"fr\":\"El Biar\",\"en\":\"El Biar\",\"ar\":\"El Biar\"}",
     "modification_date": "0000-00-00 00:00:00"
   }, {
     "id": "3",
-    "name": "{fr:"Ericsson","en":"Ericsson","ar":"Ericsson"}",
-    "address": "{"fr":"Beb ezzouar","en":"Beb ezzouar","ar":"Beb ezzouar"}",
+    "name": "{\"fr\":\"Ericsson\",\"en\":\"Ericsson\",\"ar\":\"Ericsson\"}",
+    "address": "{\"fr\":\"Beb ezzouar\",\"en\":\"Beb ezzouar\",\"ar\":\"Beb ezzouar\"}",
     "modification_date": "2020-10-06 15:14:00"
   }, {
     "id": "4",
-    "name": "{"fr":"Alfresco","en":"Alfresco","ar":"Alfresco"}",
-    "address": "{"fr":"Tunis","en":"Tunis","ar":"Tunis"}",
+    "name": "{\"fr\":\"Alfresco\",\"en\":\"Alfresco\",\"ar\":\"Alfresco\"}",
+    "address": "{\"fr\":\"Tunis\",\"en\":\"Tunis\",\"ar\":\"Tunis\"}",
     "modification_date": "2020-10-06 15:07:49"
   }]
 }
