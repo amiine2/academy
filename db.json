@@ -169,5 +169,142 @@
     "type": "catalog",
     "status": "active",
     "modification_date": "2020-10-06 14:23:46"
+  }],
+  "publications": [{
+    "id": "1",
+    "name": "{\"fr\":\"Travailler en \u00e9quipe\",\"en\":\"Travailler en \u00e9quipe\",\"ar\":\"Travailler en \u00e9quipe\"}",
+    "short_description": "{\"fr\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Antar YAHIA sur l\u2019importance du travail en \u00e9quipe.\",\"en\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Antar YAHIA sur l\u2019importance du travail en \u00e9quipe.\",\"ar\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Antar YAHIA sur l\u2019importance du travail en \u00e9quipe.\"}",
+    "long_description": "{\"fr\":\"Quelle que soit notre fonction ou notre niveau de responsabilit\u00e9, nous sommes amen\u00e9s \u00e0 g\u00e9rer des projets et des missions n\u00e9cessitant un travail en \u00e9quipe. Nous sommes tous capables de travailler ensemble et chaque membre de l\u2019\u00e9quipe doit \u0153uvrer non pas individuellement mais avec tous les autres pour atteindre un objectif commun.\",\"en\":\"Quelle que soit notre fonction ou notre niveau de responsabilit\u00e9, nous sommes amen\u00e9s \u00e0 g\u00e9rer des projets et des missions n\u00e9cessitant un travail en \u00e9quipe. Nous sommes tous capables de travailler ensemble et chaque membre de l\u2019\u00e9quipe doit \u0153uvrer non pas individuellement mais avec tous les autres pour atteindre un objectif commun.\",\"ar\":\"Quelle que soit notre fonction ou notre niveau de responsabilit\u00e9, nous sommes amen\u00e9s \u00e0 g\u00e9rer des projets et des missions n\u00e9cessitant un travail en \u00e9quipe. Nous sommes tous capables de travailler ensemble et chaque membre de l\u2019\u00e9quipe doit \u0153uvrer non pas individuellement mais avec tous les autres pour atteindre un objectif commun.\"}",
+    "type": "1",
+    "in_home": "1",
+    "creation_date": "2020-10-11 23:52:47",
+    "modification_date": "2020-10-11 23:52:47"
+  }, {
+    "id": "2",
+    "name": "{\"fr\":\"Inclusion Num\u00e9rique\",\"en\":\"Inclusion Num\u00e9rique\",\"ar\":\"Inclusion Num\u00e9rique\"}",
+    "short_description": "{\"fr\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Lina AMARA KORBA qui nous explique ce qu\u2019est l\u2019inclusion num\u00e9rique ainsi que ses enjeux.\",\"en\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Lina AMARA KORBA qui nous explique ce qu\u2019est l\u2019inclusion num\u00e9rique ainsi que ses enjeux.\",\"ar\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Lina AMARA KORBA qui nous explique ce qu\u2019est l\u2019inclusion num\u00e9rique ainsi que ses enjeux.\"}",
+    "long_description": "{\"fr\":\"La d\u00e9mat\u00e9rialisation des services ainsi que le d\u00e9veloppement de la  culture num\u00e9rique et digitale ont un impact direct  sur le travail et la vie quotidienne, d\u2019o\u00f9 l\u2019importance de favoriser le d\u00e9ploiement du processus qui vise \u00e0 rendre le num\u00e9rique accessible \u00e0 chaque individu. En tant qu'acc\u00e9l\u00e9rateurs et amplificateurs de changement, Djezzy est un des acteurs qui accompagne l\u2019inclusion num\u00e9rique en Alg\u00e9rie.\",\"en\":\"La d\u00e9mat\u00e9rialisation des services ainsi que le d\u00e9veloppement de la  culture num\u00e9rique et digitale ont un impact direct  sur le travail et la vie quotidienne, d\u2019o\u00f9 l\u2019importance de favoriser le d\u00e9ploiement du processus qui vise \u00e0 rendre le num\u00e9rique accessible \u00e0 chaque individu. En tant qu'acc\u00e9l\u00e9rateurs et amplificateurs de changement, Djezzy est un des acteurs qui accompagne l\u2019inclusion num\u00e9rique en Alg\u00e9rie.\",\"ar\":\"La d\u00e9mat\u00e9rialisation des services ainsi que le d\u00e9veloppement de la  culture num\u00e9rique et digitale ont un impact direct  sur le travail et la vie quotidienne, d\u2019o\u00f9 l\u2019importance de favoriser le d\u00e9ploiement du processus qui vise \u00e0 rendre le num\u00e9rique accessible \u00e0 chaque individu. En tant qu'acc\u00e9l\u00e9rateurs et amplificateurs de changement, Djezzy est un des acteurs qui accompagne l\u2019inclusion num\u00e9rique en Alg\u00e9rie.\"}",
+    "type": "1",
+    "in_home": "1",
+    "creation_date": "2020-10-11 23:52:47",
+    "modification_date": "2020-10-11 23:52:47"
+  }, {
+    "id": "3",
+    "name": "{\"fr\":\"les 4 cl\u00e9s de la communication\",\"en\":\"les 4 cl\u00e9s de la communication\",\"ar\":\"les 4 cl\u00e9s de la communication\"}",
+    "short_description": "{\"fr\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Mohamed Ould Chakmadji qui nous pr\u00e9sente les 4 cl\u00e9s de la communication.\",\"en\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Mohamed Ould Chakmadji qui nous pr\u00e9sente les 4 cl\u00e9s de la communication.\",\"ar\":\"D\u00e9couvrez dans cette minute Learning l\u2019intervention de Mohamed Ould Chakmadji qui nous pr\u00e9sente les 4 cl\u00e9s de la communication.\"}",
+    "long_description": "{\"fr\":\"Au quotidien, de bonnes comp\u00e9tences en communication sont indispensables au sein de l\u2019entreprise, ainsi ces comp\u00e9tences vous permettent de vous faire entendre mais \u00e9galement de vous faire comprendre et de cr\u00e9er des relations professionnelles positives, apprendre \u00e0 mieux communiquer vous donnera la possibilit\u00e9 de sortir du lot et d'obtenir davantage d\u2019opportunit\u00e9s pour g\u00e9rer au mieux votre carri\u00e8re et vos relations.\",\"en\":\"Au quotidien, de bonnes comp\u00e9tences en communication sont indispensables au sein de l\u2019entreprise, ainsi ces comp\u00e9tences vous permettent de vous faire entendre mais \u00e9galement de vous faire comprendre et de cr\u00e9er des relations professionnelles positives, apprendre \u00e0 mieux communiquer vous donnera la possibilit\u00e9 de sortir du lot et d'obtenir davantage d\u2019opportunit\u00e9s pour g\u00e9rer au mieux votre carri\u00e8re et vos relations.\",\"ar\":\"Au quotidien, de bonnes comp\u00e9tences en communication sont indispensables au sein de l\u2019entreprise, ainsi ces comp\u00e9tences vous permettent de vous faire entendre mais \u00e9galement de vous faire comprendre et de cr\u00e9er des relations professionnelles positives, apprendre \u00e0 mieux communiquer vous donnera la possibilit\u00e9 de sortir du lot et d'obtenir davantage d\u2019opportunit\u00e9s pour g\u00e9rer au mieux votre carri\u00e8re et vos relations.\"}",
+    "type": "1",
+    "in_home": "1",
+    "creation_date": "2020-10-05 23:53:04",
+    "modification_date": "2020-10-05 23:53:04"
+  }, {
+    "id": "4",
+    "name": "{\"fr\":\"Communiquer avec diff\u00e9rents types de personnalit\u00e9s\",\"en\":\"Communiquer avec diff\u00e9rents types de personnalit\u00e9s\",\"ar\":\"Communiquer avec diff\u00e9rents types de personnalit\u00e9s\"}",
+    "short_description": "{\"fr\":\"La qualit\u00e9 de notre communication est au c\u0153ur de notre performance relationnelle. Une bonne compr\u00e9hension de notre fonctionnement et de celui des autres permet de d\u00e9velopper des strat\u00e9gies de communication efficaces et mieux r\u00e9pondre aux exigences de notre environnement professionnel.\", \"en\":\"La qualit\u00e9 de notre communication est au c\u0153ur de notre performance relationnelle. Une bonne compr\u00e9hension de notre fonctionnement et de celui des autres permet de d\u00e9velopper des strat\u00e9gies de communication efficaces et mieux r\u00e9pondre aux exigences de notre environnement professionnel.\", \"ar\":\"La qualit\u00e9 de notre communication est au c\u0153ur de notre performance relationnelle. Une bonne compr\u00e9hension de notre fonctionnement et de celui des autres permet de d\u00e9velopper des strat\u00e9gies de communication efficaces et mieux r\u00e9pondre aux exigences de notre environnement professionnel.\"}",
+    "long_description": "{\"fr\":\"Comment mettre \u00e0 profit nos diff\u00e9rences interpersonnelles afin d\u2019avancer dans une m\u00eame direction, Comment faire pour favoriser la compr\u00e9hension mutuelle et l\u2019harmonie malgr\u00e9 ces diff\u00e9rences ?  Mohamed OULED CHAKMADJI, formateur & Coach certifi\u00e9 Dale Carnegie nous livre quelques m\u00e9thodes utiles pour am\u00e9liorer l\u2019efficacit\u00e9 en communication dans ce webinar. N\u2019h\u00e9sitez pas \u00e0 cliquer sur le lien ci-dessous pour assister \u00e0 ce direct pr\u00e9vu le Jeudi 22 Octobre \u00e0 11H00. Soyez nombreux au rendez-vous !\", \"en\":\"Comment mettre \u00e0 profit nos diff\u00e9rences interpersonnelles afin d\u2019avancer dans une m\u00eame direction, Comment faire pour favoriser la compr\u00e9hension mutuelle et l\u2019harmonie malgr\u00e9 ces diff\u00e9rences ?  Mohamed OULED CHAKMADJI, formateur & Coach certifi\u00e9 Dale Carnegie nous livre quelques m\u00e9thodes utiles pour am\u00e9liorer l\u2019efficacit\u00e9 en communication dans ce webinar. N\u2019h\u00e9sitez pas \u00e0 cliquer sur le lien ci-dessous pour assister \u00e0 ce direct pr\u00e9vu le Jeudi 22 Octobre \u00e0 11H00. Soyez nombreux au rendez-vous !\", \"ar\":\"Comment mettre \u00e0 profit nos diff\u00e9rences interpersonnelles afin d\u2019avancer dans une m\u00eame direction, Comment faire pour favoriser la compr\u00e9hension mutuelle et l\u2019harmonie malgr\u00e9 ces diff\u00e9rences ?  Mohamed OULED CHAKMADJI, formateur & Coach certifi\u00e9 Dale Carnegie nous livre quelques m\u00e9thodes utiles pour am\u00e9liorer l\u2019efficacit\u00e9 en communication dans ce webinar. N\u2019h\u00e9sitez pas \u00e0 cliquer sur le lien ci-dessous pour assister \u00e0 ce direct pr\u00e9vu le Jeudi 22 Octobre \u00e0 11H00. Soyez nombreux au rendez-vous !\"}",
+    "type": "2",
+    "in_home": "1",
+    "creation_date": "2020-10-05 23:59:53",
+    "modification_date": "2020-10-05 23:59:53"
+  }, {
+    "id": "6",
+    "name": "{\"fr\":\"N\u00e9gociation : pratiques et outils au quotidien\",\"en\":\"N\u00e9gociation : pratiques et outils au quotidien\",\"ar\":\"N\u00e9gociation : pratiques et outils au quotidien\"}",
+    "short_description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "long_description": "{\"fr\":\"\",\"en\":\"\",\"ar\":\"\"}",
+    "type": "2",
+    "in_home": "1",
+    "creation_date": "2020-10-11 23:52:47",
+    "modification_date": "2020-10-11 23:52:47"
+  }, {
+    "id": "7",
+    "name": "{\"fr\":\"comptabilit\u00e9 g\u00e9n\u00e9rale en entreprise\", \"en\":\"comptabilit\u00e9 g\u00e9n\u00e9rale en entreprise\", \"ar\":\"comptabilit\u00e9 g\u00e9n\u00e9rale en entreprise\"}",
+    "short_description": "{\"fr\":\"La transversalit\u00e9 des organisations et la mise en place de syst\u00e8mes informatiques de gestion int\u00e9gr\u00e9s conduisent \u00e0 d\u00e9localiser certains travaux de comptabilit\u00e9 aupr\u00e8s d'op\u00e9rationnels non-sp\u00e9cialistes du domaine. \",\"en\":\"La transversalit\u00e9 des organisations et la mise en place de syst\u00e8mes informatiques de gestion int\u00e9gr\u00e9s conduisent \u00e0 d\u00e9localiser certains travaux de comptabilit\u00e9 aupr\u00e8s d'op\u00e9rationnels non-sp\u00e9cialistes du domaine. \",\"ar\":\"La transversalit\u00e9 des organisations et la mise en place de syst\u00e8mes informatiques de gestion int\u00e9gr\u00e9s conduisent \u00e0 d\u00e9localiser certains travaux de comptabilit\u00e9 aupr\u00e8s d'op\u00e9rationnels non-sp\u00e9cialistes du domaine. \"}",
+    "long_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "type": "2",
+    "in_home": "1",
+    "creation_date": "2020-10-11 23:52:47",
+    "modification_date": "2020-10-11 23:52:47"
+  }, {
+    "id": "8",
+    "name": "{\"fr\":\"L\u2019intelligence \u00e9motionnelle au service de l'engagement\", \"en\":\"L\u2019intelligence \u00e9motionnelle au service de l'engagement\", \"ar\":\"L\u2019intelligence \u00e9motionnelle au service de l'engagement\"}",
+    "short_description": "{\"fr\":\"Dans tout travail d\u2019\u00e9quipe, l\u2019intelligence \u00c9motionnelle est devenue une comp\u00e9tence cl\u00e9.\", \"en\":\"Dans tout travail d\u2019\u00e9quipe, l\u2019intelligence \u00c9motionnelle est devenue une comp\u00e9tence cl\u00e9.\", \"ar\":\"Dans tout travail d\u2019\u00e9quipe, l\u2019intelligence \u00c9motionnelle est devenue une comp\u00e9tence cl\u00e9.\"}",
+    "long_description": "{\"fr\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs.\",\"en\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs. \",\"ar\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs.\"}",
+    "type": "3",
+    "in_home": "1",
+    "creation_date": "2020-10-05 23:53:04",
+    "modification_date": "2020-10-05 23:53:04"
+  }, {
+    "id": "9",
+    "name": "{\"fr\":\"Management de la performance collective\", \"en\":\"Management de la performance collective\", \"ar\":\"Management de la performance collective\"}",
+    "short_description": "{\"fr\":\"Dans les contextes o\u00f9 les interactions entre collaborateurs sont nombreuses, la coop\u00e9ration et la dynamique de groupe deviennent des facteurs d\u00e9terminants de performance.\", \"en\":\"Dans les contextes o\u00f9 les interactions entre collaborateurs sont nombreuses, la coop\u00e9ration et la dynamique de groupe deviennent des facteurs d\u00e9terminants de performance.\", \"ar\":\"Dans les contextes o\u00f9 les interactions entre collaborateurs sont nombreuses, la coop\u00e9ration et la dynamique de groupe deviennent des facteurs d\u00e9terminants de performance.\"}",
+    "long_description": "{\"fr\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs.\",\"en\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs. \",\"ar\":\"D\u00e9velopper son intelligence \u00e9motionnelle c'est d\u00e9velopper sa capacit\u00e9 \u00e0 d\u00e9crypter, comprendre ses propres  \u00e9motions et celles des autres. Cette aptitude est un excellent moyen pour guider sa pens\u00e9e et ses comportements de mani\u00e8re efficace afin d'optimiser sa relation aux autres et favoriser l'engagement des collaborateurs.\"}",
+    "type": "3",
+    "in_home": "1",
+    "creation_date": "2020-10-05 23:59:53",
+    "modification_date": "2020-10-05 23:59:53"
+  }, {
+    "id": "10",
+    "name": "{\"fr\":\"Prendre la parole avec impact\", \"en\":\"Prendre la parole avec impact\", \"ar\":\"Prendre la parole avec impact\"}",
+    "short_description": "{\"fr\":\"Vos fonctions vous am\u00e8nent \u00e0 vous exprimer souvent devant un auditoire : faire une pr\u00e9sentation, conduire une r\u00e9union, annoncer une d\u00e9cision.\", \"en\":\"Vos fonctions vous am\u00e8nent \u00e0 vous exprimer souvent devant un auditoire : faire une pr\u00e9sentation, conduire une r\u00e9union, annoncer une d\u00e9cision.\", \"ar\":\"Vos fonctions vous am\u00e8nent \u00e0 vous exprimer souvent devant un auditoire : faire une pr\u00e9sentation, conduire une r\u00e9union, annoncer une d\u00e9cision.\"}",
+    "long_description": "{\"fr\":\"Pour mieux pr\u00e9parer une prise de parole en public en fonction du contexte professionnel identifi\u00e9, Ahmed LAHRI, General Manager d\u2019un cabinet de conseil en communication, formateur et ancien pr\u00e9sentateur TV d\u00e9veloppe pour nous le sujet \u00e0 travers quelques astuces pour convaincre et captiver l\u2019auditoire d\u00e8s les premi\u00e8res secondes le Lundi 13 Juillet 2020 \u00e0 11h00. \", \"en\":\"Pour mieux pr\u00e9parer une prise de parole en public en fonction du contexte professionnel identifi\u00e9, Ahmed LAHRI, General Manager d\u2019un cabinet de conseil en communication, formateur et ancien pr\u00e9sentateur TV d\u00e9veloppe pour nous le sujet \u00e0 travers quelques astuces pour convaincre et captiver l\u2019auditoire d\u00e8s les premi\u00e8res secondes le Lundi 13 Juillet 2020 \u00e0 11h00. \", \"ar\":\"Pour mieux pr\u00e9parer une prise de parole en public en fonction du contexte professionnel identifi\u00e9, Ahmed LAHRI, General Manager d\u2019un cabinet de conseil en communication, formateur et ancien pr\u00e9sentateur TV d\u00e9veloppe pour nous le sujet \u00e0 travers quelques astuces pour convaincre et captiver l\u2019auditoire d\u00e8s les premi\u00e8res secondes le Lundi 13 Juillet 2020 \u00e0 11h00. \"}",
+    "type": "3",
+    "in_home": "1",
+    "creation_date": "2020-10-11 23:52:47",
+    "modification_date": "2020-10-11 23:52:47"
+  }, {
+    "id": "11",
+    "name": "{\"fr\":\"R\u00e9ussir sa pr\u00e9sentation et captiver son auditoire\",\"en\":\"R\u00e9ussir sa pr\u00e9sentation et captiver son auditoire\",\"ar\":\"R\u00e9ussir sa pr\u00e9sentation et captiver son auditoire\"}",
+    "short_description": "{\"fr\":\"Que ce soit devant vos \u00e9quipes, vos coll\u00e8gues ou vos responsables, faire une pr\u00e9sentation est une occasion pour convaincre, d\u00e9fendre et r\u00e9ussir son projet mais comment rester concentr\u00e9 sur le message \u00e0  faire passer pour soutenir son auditoire. Cette formation vous permettra de savoir comment vous pr\u00e9parer, concevoir votre pr\u00e9sentation mais aussi comment g\u00e9rer les questions et interruptions.\",\"en\":\"Que ce soit devant vos \u00e9quipes, vos coll\u00e8gues ou vos responsables, faire une pr\u00e9sentation est une occasion pour convaincre, d\u00e9fendre et r\u00e9ussir son projet mais comment rester concentr\u00e9 sur le message \u00e0  faire passer pour soutenir son auditoire. Cette formation vous permettra de savoir comment vous pr\u00e9parer, concevoir votre pr\u00e9sentation mais aussi comment g\u00e9rer les questions et interruptions.\",\"ar\":\"Que ce soit devant vos \u00e9quipes, vos coll\u00e8gues ou vos responsables, faire une pr\u00e9sentation est une occasion pour convaincre, d\u00e9fendre et r\u00e9ussir son projet mais comment rester concentr\u00e9 sur le message \u00e0  faire passer pour soutenir son auditoire. Cette formation vous permettra de savoir comment vous pr\u00e9parer, concevoir votre pr\u00e9sentation mais aussi comment g\u00e9rer les questions et interruptions.\"}",
+    "long_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "type": "5",
+    "in_home": "1",
+    "creation_date": "2020-10-11 23:52:47",
+    "modification_date": "2020-10-11 23:52:47"
+  }, {
+    "id": "12",
+    "name": "{\"fr\":\"La gestion des \u00e9motions et la r\u00e9silience durant la pand\u00e9mie\", \"en\":\"La gestion des \u00e9motions et la r\u00e9silience durant la pand\u00e9mie\", \"ar\":\"La gestion des \u00e9motions et la r\u00e9silience durant la pand\u00e9mie\"}",
+    "short_description": "{\"fr\":\"Le contexte actuel reli\u00e9 au COVID-19 constitue une r\u00e9alit\u00e9 inhabituelle \u00e0 laquelle nous devons nous adapter, notamment par une bonne gestion de nos \u00e9motions et le d\u00e9veloppement de nos capacit\u00e9s de r\u00e9silience.\\nQu'est-ce que la r\u00e9silience, comment utiliser l\u2019intelligence \u00e9motionnelle pour d\u00e9velopper ses capacit\u00e9s \u00e0 \u00eatre r\u00e9silient ? Ibtissem Nour el houda BENAYACHE, Psychologue clinicienne et membre de l\u2019association SARP, Amjad BOUCHELAGHEM, Psychologue clinicienne et formatrice au sein de l\u2019association SARP d\u00e9veloppent pour nous le sujet dans ce webinar organiser en collaboration avec le service m\u00e9dical\",\"en\":\"Le contexte actuel reli\u00e9 au COVID-19 constitue une r\u00e9alit\u00e9 inhabituelle \u00e0 laquelle nous devons nous adapter, notamment par une bonne gestion de nos \u00e9motions et le d\u00e9veloppement de nos capacit\u00e9s de r\u00e9silience.\\nQu'est-ce que la r\u00e9silience, comment utiliser l\u2019intelligence \u00e9motionnelle pour d\u00e9velopper ses capacit\u00e9s \u00e0 \u00eatre r\u00e9silient ? Ibtissem Nour el houda BENAYACHE , Psychologue clinicienne et membre de l\u2019association SARP, Amjad BOUCHELAGHEM, Psychologue clinicienne et formatrice au sein de l\u2019association SARP d\u00e9veloppent pour nous le sujet dans ce webinar organiser en collaboration avec le service m\u00e9dical\",\"ar\":\"Le contexte actuel reli\u00e9 au COVID-19 constitue une r\u00e9alit\u00e9 inhabituelle \u00e0 laquelle nous devons nous adapter, notamment par une bonne gestion de nos \u00e9motions et le d\u00e9veloppement de nos capacit\u00e9s de r\u00e9silience.\\nQu'est-ce que la r\u00e9silience, comment utiliser l\u2019intelligence \u00e9motionnelle pour d\u00e9velopper ses capacit\u00e9s \u00e0 \u00eatre r\u00e9silient ? Ibtissem Nour el houda BENAYACHE , Psychologue clinicienne et membre de l\u2019association SARP, Amjad BOUCHELAGHEM, Psychologue clinicienne et formatrice au sein de l\u2019association SARP d\u00e9veloppent pour nous le sujet dans ce webinar organiser en collaboration avec le service m\u00e9dical\"}",
+    "long_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "type": "5",
+    "in_home": "1",
+    "creation_date": "2020-10-05 23:53:04",
+    "modification_date": "2020-10-05 23:53:04"
+  }, {
+    "id": "13",
+    "name": "{\"fr\":\"V\u00e9cu psychologique lors de la pand\u00e9mie COVID 19\", \"en\":\"V\u00e9cu psychologique lors de la pand\u00e9mie COVID 19\", \"ar\":\"V\u00e9cu psychologique lors de la pand\u00e9mie COVID 19\"}",
+    "short_description": "{\"fr\":\"Dans ce contexte de pand\u00e9mie ondiale, de nombreuses personnes peuvent \u00eatre ou avoir \u00e9t\u00e9 affect\u00e9es physiquement et psychologiquement en d\u00e9veloppant des r\u00e9actions de stress, d\u2019anxi\u00e9t\u00e9 ou de d\u00e9prime.\\nC\u2019est pourquoi, en collaboration avec le service m\u00e9dical, nous organisons un webinar anim\u00e9 par le Docteur Sabrina GAHAR, Ma\u00eetre de conf\u00e9rences en psychologie clinique et Pr\u00e9sidente du CS de l'ODE\/FOREM.\\n\\tCe sera l\u2019occasion de partager avec nous les actions \u00e0 mettre en place pour minimiser les r\u00e9percussions des \u00e9ventuelles r\u00e9actions ressenties dans notre vie sociale et professionnelle. \", \"en\":\"Dans ce contexte de pand\u00e9mie mondiale, de nombreuses personnes peuvent \u00eatre ou avoir \u00e9t\u00e9 affect\u00e9es physiquement et psychologiquement en d\u00e9veloppant des r\u00e9actions de stress, d\u2019anxi\u00e9t\u00e9 ou de d\u00e9prime.\\n\\tC\u2019est pourquoi, en collaboration avec le service m\u00e9dical, nous organisons un webinar anim\u00e9 par le Docteur Sabrina GAHAR, Ma\u00eetre de conf\u00e9rences en psychologie clinique et Pr\u00e9sidente du CS de l'ODE\/FOREM.\\n\\tCe sera l\u2019occasion de partager avec nous les actions \u00e0 mettre en place pour minimiser les r\u00e9percussions des \u00e9ventuelles r\u00e9actions ressenties dans notre vie sociale et professionnelle. \", \"ar\":\"Dans ce contexte de pand\u00e9mie mondiale, de nombreuses personnes peuvent \u00eatre ou avoir \u00e9t\u00e9 affect\u00e9es physiquement et psychologiquement en d\u00e9veloppant des r\u00e9actions de stress, d\u2019anxi\u00e9t\u00e9 ou de d\u00e9prime.\\n\\tC\u2019est pourquoi, en collaboration avec le service m\u00e9dical, nous organisons un webinar anim\u00e9 par le Docteur Sabrina GAHAR, Ma\u00eetre de conf\u00e9rences en psychologie clinique et Pr\u00e9sidente du CS de l'ODE\/FOREM.\\n\\tCe sera l\u2019occasion de partager avec nous les actions \u00e0 mettre en place pour minimiser les r\u00e9percussions des \u00e9ventuelles r\u00e9actions ressenties dans notre vie sociale et professionnelle. \"}",
+    "long_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "type": "5",
+    "in_home": "1",
+    "creation_date": "2020-10-05 23:59:53",
+    "modification_date": "2020-10-05 23:59:53"
+  }, {
+    "id": "14",
+    "name": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "short_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "long_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "type": "6",
+    "in_home": "0",
+    "creation_date": "2020-11-11 11:32:53",
+    "modification_date": "2020-11-11 11:32:53"
+  }, {
+    "id": "15",
+    "name": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "short_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "long_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "type": "6",
+    "in_home": "0",
+    "creation_date": "2020-11-11 11:32:53",
+    "modification_date": "2020-11-11 11:32:53"
+  }, {
+    "id": "16",
+    "name": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "short_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "long_description": "{\"fr\":\"\", \"en\":\"\", \"ar\":\"\"}",
+    "type": "6",
+    "in_home": "0",
+    "creation_date": "2020-11-11 11:34:54",
+    "modification_date": "2020-11-11 11:34:54"
   }]
+
 }
